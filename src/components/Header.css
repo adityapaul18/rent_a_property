@@ -1,0 +1,40 @@
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    align-items: center;
+    background-color: rgb(252, 246, 255);
+    border-bottom: 1px rgb(205, 205, 205);
+}
+
+.headerLeft{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    color: rgb(119, 44, 189) !important;
+}
+
+.logoBox {
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.logoBox > span {
+    margin-left: 5px;
+}
+
+.headerButton{ 
+    color: rgb(119, 44, 189) !important;
+    margin: 0 15px !important;
+    margin-top: 5px !important;
+}
+
+.headerButton2{
+    color: white !important;
+    margin-left: 20px !important;
+    background-color: rgb(119, 44, 189) !important;;
+    margin-top: 5px !important;
+
+}

@@ -1,0 +1,19 @@
+.FilterbarContainer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+    align-items: center;
+}
+
+.filterInputs{
+    background-color: white !important;
+    width: 95%;
+    margin-right:  10px !important;
+}
+
+.filterbuttton{
+    background-color: blueviolet !important;
+    color: white !important;
+    margin-left: 20px !important;
+    padding: 10px !important;
+}
