@@ -4,87 +4,87 @@
         "beds":3,
         "address":"34-Janakpuri, West Delhi, Delhi",
         "name":"Imprapuram Park",
-        "price":5000,
+        "price":10000,
         "type":"Flat",
         "bath":2
     },
     {
         "loc":"Mumbai",
+        "beds":1,
+        "address":"house -4 , Dahravi",
+        "name":"Dharavi avennue",
+        "price":2000,
+        "type":"Flat",
+        "bath":1
+    },{
+        "loc":"Delhi",
+        "beds":3,
+        "address":"34-Dwarka deluxe, West Delhi",
+        "name":"Dwarka Residency",
+        "price":7000,
+        "type":"Bunglow",
+        "bath":2
+    },{
+        "loc":"Chennai",
+        "beds":2,
+        "address":"H-54 , Iyer street ,East Chennai",
+        "name":"Anna Park",
+        "price":4500,
+        "type":"Duplex",
+        "bath":1
+    },{
+        "loc":"Kolkata",
+        "beds":3,
+        "address":"4-Bose Street, East Kolkata",
+        "name":"Bose  Duplex",
+        "price":3000,
+        "type":"Duplex",
+        "bath":2
+    },{
+        "loc":"Kolkata",
+        "beds":3,
+        "address":"56-Tagore Street, West Kolkata",
+        "name":"Tagore Houses",
+        "price":5000,
+        "type":"Bunglow",
+        "bath":2
+    },{
+        "loc":"Delhi",
+        "beds":3,
+        "address":"sector -  54, Mohan Copperative, South Delhi",
+        "name":"DLF Park",
+        "price":25000,
+        "type":"Flat",
+        "bath":2
+    },{
+        "loc":"Mumbai",
+        "beds":3,
+        "address":"804 , Hiranandani maeadow , Powai",
+        "name":"Hiranandani real estate",
+        "price":33000,
+        "type":"Bunglow",
+        "bath":2
+    },{
+        "loc":"Delhi",
         "beds":2,
         "address":"34-Janakpuri, West Delhi, Delhi",
         "name":"Imprapuram Park",
-        "price":4000,
+        "price":15000,
         "type":"Flat",
         "bath":2
     },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":2000,
-        "type":"Flat",
+        "loc":"Mumbai",
+        "beds":2,
+        "address":"76 - vijay park , Kalyan",
+        "name":"Kalyan Park",
+        "price":20000,
+        "type":"Duplex",
         "bath":2
     },{
-        "loc":"Delhi",
+        "loc":"Chennai",
         "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":4500,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":3000,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":5000,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":5000,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":5000,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":5000,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
-        "price":5000,
-        "type":"Flat",
-        "bath":2
-    },{
-        "loc":"Delhi",
-        "beds":3,
-        "address":"34-Janakpuri, West Delhi, Delhi",
-        "name":"Imprapuram Park",
+        "address":"98 , sector  - 56 , airport road",
+        "name":"shankar residency",
         "price":5000,
         "type":"Flat",
         "bath":2

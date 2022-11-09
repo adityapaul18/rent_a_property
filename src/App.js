@@ -27,7 +27,7 @@ function App() {
         setdata(k)
       }
       if(beds !== null){
-        k =  k.filter(word => word.beds <= beds);
+        k =  k.filter(word => word.beds == beds);
         setdata(k)
       }
       if(price !== null){
