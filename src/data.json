@@ -9,11 +9,11 @@
         "bath":2
     },
     {
-        "loc":"Delhi",
-        "beds":3,
+        "loc":"Mumbai",
+        "beds":2,
         "address":"34-Janakpuri, West Delhi, Delhi",
         "name":"Imprapuram Park",
-        "price":5000,
+        "price":4000,
         "type":"Flat",
         "bath":2
     },{
@@ -21,7 +21,7 @@
         "beds":3,
         "address":"34-Janakpuri, West Delhi, Delhi",
         "name":"Imprapuram Park",
-        "price":5000,
+        "price":2000,
         "type":"Flat",
         "bath":2
     },{
@@ -29,7 +29,7 @@
         "beds":3,
         "address":"34-Janakpuri, West Delhi, Delhi",
         "name":"Imprapuram Park",
-        "price":5000,
+        "price":4500,
         "type":"Flat",
         "bath":2
     },{
@@ -37,7 +37,7 @@
         "beds":3,
         "address":"34-Janakpuri, West Delhi, Delhi",
         "name":"Imprapuram Park",
-        "price":5000,
+        "price":3000,
         "type":"Flat",
         "bath":2
     },{

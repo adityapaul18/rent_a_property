@@ -17,20 +17,21 @@ function App() {
     const filter = async () => {
       console.log({type,beds,location,price})
       setdata(dt)
+      var k = dt;
       if(type !== ""){
-        var k = await dt.filter(word => word.type === type);
+        k =  dt.filter(word => word.type === type);
         setdata(k)
       }
       if(location !== ""){
-        k = await k.filter(word => word.loc === location);
+        k =  k.filter(word => word.loc === location);
         setdata(k)
       }
       if(beds !== null){
-        k = await k.filter(word => word.beds <= beds);
+        k =  k.filter(word => word.beds <= beds);
         setdata(k)
       }
       if(price !== null){
-        k = await k.filter(word => word.price < price);
+        k = k.filter(word => word.price < price);
         setdata(k)
       }
     }
